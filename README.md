@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Bhumil Jakheliya</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhumil2210" alt="bhumil2210" /> </p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bhumil2210&show_icons=true" alt="bhumil2210" /> </p>
+
+
 
 <!--
 **bhumil2210/bhumil2210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
