@@ -1,6 +1,10 @@
 ## Hey 👋, This is Bhumil Jakheliya
-[![Gmail Badge](https://img.shields.io/badge/-bhumil2210@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:bhumil2210@gmail.com)](mailto:bhumil2210@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-bhumil2210-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhumil2210/)](https://www.linkedin.com/in/bhumil2210/) [![Github Badge](https://img.shields.io/badge/-bhumil2210-grey?style=flat&logo=github&logoColor=white&link=https://github.com/bhumil2210/)](https://www.github.com/bhumil2210/) <p align='left'>I am a Sofware Engineer, Graduated in 2020. I have started my professional journey recently. But I have 4 years of experience developing different projects and working with different technologies. I have done 3 internships as well and my projects cover Web Development, Mobile Application Development , Machine learning as well as Blockchain. You can check my projects on my github and linkedin profile. </p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/16iL5qlnltu5QgBTmq24f-TX-8dV4tXaA/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
+
+<a href="https://www.linkedin.com/in/bhumil2210/">
+  <img align="left" alt="Bhumil's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<p align='left'>I am a Sofware Engineer, Graduated in 2020. I have started my professional journey recently. But I have 4 years of experience developing different projects and working with different technologies. I have done 3 internships as well and my projects cover Web Development, Mobile Application Development , Machine learning as well as Blockchain. You can check my projects on my github and linkedin profile. </p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/16iL5qlnltu5QgBTmq24f-TX-8dV4tXaA/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=bhumil2210 alt=bhumil2210 /> </p>
 
