@@ -19,7 +19,7 @@
   <img align="left" alt="Bhumil's Goodreads" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/goodreads.svg" />
 </a>
 <br><br>
-<p align='left'>I am a Sofware Engineer, Graduated in 2020. I have started my professional journey recently, and open to full time opportunities.I have 4 years of experience developing different projects and working with different technologies. You can check my projects on my github and linkedin profile.</p><p>My hobbies includes reading books, writing, playing chess and interest in finance and astronomy.</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/16iL5qlnltu5QgBTmq24f-TX-8dV4tXaA/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
+<p align='left'>I am working at JP Morgan Chase & Co. as a Software Engineer. I have diverse experience developing different projects and working with different technologies. You can check my projects on my github and linkedin profile.</p><p>My hobbies includes reading books, writing, playing chess and interest in finance and astronomy.</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/16iL5qlnltu5QgBTmq24f-TX-8dV4tXaA/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
 
 ## Some of my Github Stats
 
